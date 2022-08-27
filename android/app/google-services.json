@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42825902294",
+    "firebase_url": "https://worker-agent-default-rtdb.firebaseio.com",
+    "project_id": "worker-agent",
+    "storage_bucket": "worker-agent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42825902294:android:b510cbe79a24ed383f0177",
+        "android_client_info": {
+          "package_name": "com.example.psychology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42825902294-6t6tc2nklggm2b5r9ckufcrsg58494q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psychology",
+            "certificate_hash": "6bd762da3e9fea53831dc143cf858a8bd525bfef"
+          }
+        },
+        {
+          "client_id": "42825902294-uqj66p5vo3k42gcmebeptdr6e666nqlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsiZv6I2vq5T7bCvqixEh4kFAu7aI5zZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42825902294-uqj66p5vo3k42gcmebeptdr6e666nqlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
